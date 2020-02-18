@@ -1,0 +1,2 @@
+# MultiServer
+a cmake test
